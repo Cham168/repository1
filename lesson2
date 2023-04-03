@@ -1,3 +1,21 @@
-a = 1
-b = 2
-print ('a' == 'b')
+a = 10
+b = 20
+c = (a == b)
+print (c)
+str ('THU')
+THU = (a - b)
+print (THU + (a - b))
+
+s = [c, b, (THU), a]
+s = set(s)
+print(s)
+
+p = (1, 2, 3, 4)
+p2 =(5, 6, 7, 8)
+
+p3 = (p + p2)
+print (list(p3))
+
+d = {'name' : 10, 'name2' : 'name3', 11 : 'name4', True : None,
+     False : ([],[]), 0.5 : ({'name5' : 'name', 12 : 13}), ():() }
+print(d)

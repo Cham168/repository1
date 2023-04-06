@@ -78,7 +78,7 @@
       <recent name="C:\Users\Admin\Desktop\Учеба\repository1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson3">
+  <component name="RunManager" selected="Python.lesson4">
     <configuration name="lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repository1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repository1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Desktop\Учеба\repository1\lesson4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson3" />
+        <item itemvalue="Python.lesson4" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.lesson2" />
       </list>

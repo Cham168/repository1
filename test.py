@@ -1,12 +1,9 @@
-def print_square(size, end_char=None):
+def count_chars(s):
 
-    if size == 0:
-        if end_char is not None:
-            print(end_char)
-        return
-
-    print('*' * size)
-    print_square(size - 1, end_char)
-
-    if end_char is not None:
-        print(end_char)
+    char_count = {}
+    for char in s:
+        if char in char_count:
+            char_count[char] += 1
+        else:
+            char_count[char] = 1
+    return char_count

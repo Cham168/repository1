@@ -1,9 +1,12 @@
-def out_func(num):
-    def in_func(x):
-        return num * x
-    return in_func
+def print_square(size, end_char=None):
 
-res_func = out_func(1)
-res = res_func(2)
+    if size == 0:
+        if end_char is not None:
+            print(end_char)
+        return
 
-print(res)
+    print('*' * size)
+    print_square(size - 1, end_char)
+
+    if end_char is not None:
+        print(end_char)

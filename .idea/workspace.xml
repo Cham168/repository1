@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b491a249-2f02-4270-a76c-99ced622227b" name="Changes" comment="Done without 'e'">
-      <change afterPath="$PROJECT_DIR$/Lesson6.py" afterDir="false" />
+    <list default="true" id="b491a249-2f02-4270-a76c-99ced622227b" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/Lesson8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lesson8.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/lesson2" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lesson4.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -82,7 +82,7 @@
       <recent name="C:\Users\Admin\Desktop\Учеба\repository1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson6">
+  <component name="RunManager" selected="Python.2test2">
     <configuration name="2test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="repository1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repository1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,8 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lesson6" />
         <item itemvalue="Python.2test2" />
+        <item itemvalue="Python.Lesson8" />
+        <item itemvalue="Python.Lesson6" />
         <item itemvalue="Python.lesson5" />
         <item itemvalue="Python.lesson4" />
-        <item itemvalue="Python.lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681577142044</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done">
+      <created>1681581542071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681581542071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +313,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Done without 'e'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done without 'e'" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>

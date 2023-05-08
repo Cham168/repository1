@@ -1,9 +1,9 @@
-def count_chars(s):
+import json
 
-    char_count = {}
-    for char in s:
-        if char in char_count:
-            char_count[char] += 1
-        else:
-            char_count[char] = 1
-    return char_count
+
+def to_json():
+    pass
+
+
+def from_json():
+    pass
